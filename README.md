@@ -111,16 +111,28 @@ Trained at the **University of Abomey-Calavi** (MSc Applied Economics), I have c
 ---
 
 ### 🦠 [COVID-19 Analyse R](https://github.com/KOUTON-HERVE/covid19-analysis-r)
-> Analyse statistique de l'impact de la pandémie COVID-19 | Statistical Analysis of COVID-19 Pandemic Impact
+> Analyse statistique mondiale des tests COVID-19 | Global Statistical Analysis of COVID-19 Testing Data
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![COVID-19](https://img.shields.io/badge/COVID--19-Data%20Analysis-red?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-rvest-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Complété-brightgreen?style=flat-square)
 
-- **Analyse exploratoire** des données pandémiques mondiales
-- **Visualisations temporelles** de l'évolution des cas et décès
-- **Comparaisons régionales** et modélisation statistique
-- Outils : `tidyverse`, `ggplot2`, `dplyr`, `lubridate`
+**📌 Contexte** — Simulation d'une situation professionnelle d'analyste de données pour une chaîne d'information, produisant des analyses fiables sur la situation sanitaire mondiale à partir de données Wikipedia.
+
+**🎯 Objectifs clés :**
+- 🌐 Extraction de données réelles via requête HTTP & web scraping (`rvest`, `httr`)
+- 🧹 Nettoyage et structuration des données COVID-19 mondiales
+- 📊 Calcul d'indicateurs clés : taux de positivité, ratio cas/population
+- 🌍 Comparaison des performances de dépistage entre pays
+- 📈 Identification des tendances et disparités mondiales
+
+**📈 Résultats clés :**
+- ⚠️ Fortes disparités dans les stratégies de dépistage entre pays
+- 🔴 Identification des pays à taux de positivité élevés
+- 📉 Analyse comparative des ratios cas confirmés / population
+
+**🛠️ Stack technique :** `R` · `Jupyter Notebook` · `rvest` · `httr`
 
 ---
 
@@ -148,111 +160,38 @@ Trained at the **University of Abomey-Calavi** (MSc Applied Economics), I have c
 ## 🎓 Formation & Certifications | Education & Certifications
 
 ### 🏫 Diplômes Académiques | Academic Degrees
-```
-🎓  Master en Économie Appliquée et Politique de Développement
-    Université d'Abomey-Calavi (UAC) — En cours (2024-)
 
-🎓  Licence en Économie et Gestion des Exploitations Agricoles
-    Université d'Abomey-Calavi (UAC) — 2021-2023 | Moyenne: 13.20/20
-```
+| Diplôme | Institution | Période |
+|---|---|---|
+| 🎓 Master — Économie Appliquée & Politique de Développement | Université d'Abomey-Calavi (UAC) | 2024 — En cours |
+| 🎓 Licence — Économie & Gestion des Exploitations Agricoles | Université d'Abomey-Calavi (UAC) | 2021 — 2023 |
 
-### 🏆 Certifications Internationales | International Certifications
+---
 
-#### 🌍 Développement & Politiques Publiques
-```
-🏆  Evaluating Impact in Low- and Middle-Income Countries
-    edX / World Bank Group (WBGx) — Février 2026
-    ID: eac206fbbdcc4c118d51fb3e7b0b5704
-
-🏆  Modélisation Macroéconomique pour le Développement Durable
-    IDEP - African Institute for Economic Development and Planning — Décembre 2025
-
-🏆  Suivi et Évaluation d'un Projet de Développement
-    AFD - Agence Française de Développement — Janvier 2024
-    Compétences : Mise en œuvre de projet, S&E
-```
-
-#### 📊 Data Science & Analyse de Données
-```
-📜  Introduction to R Programming for Data Science
-    IBM — Mai 2026 | ID: B9XDSCVA0NK9
-
-📜  Assessment for Data Analysis and Visualization Foundations
-    IBM — Mars 2026 | ID: ZR6AX0CMK0O9
-
-📜  Data Visualization and Dashboards with Excel and Cognos
-    IBM — Octobre 2025
-
-📜  Data Analytics Essentials
-    IBM — Mai 2025
-
-📜  Introduction to Data Analytics
-    IBM — Août 2025
-
-📜  Excel Basics for Data Analysis
-    IBM — Août 2025
-```
-
-#### 🤖 Machine Learning & SQL
-```
-📜  Understanding Machine Learning
-    DataCamp — Août 2025
-
-📜  Understanding Data Science
-    DataCamp — Août 2025
-
-📜  Introduction to SQL
-    DataCamp — Juillet 2025
-
-📜  Intermediate SQL
-    DataCamp — Août 2025
-
-📜  Joining Data in SQL
-    DataCamp — Août 2025
-
-📜  Introduction to Git
-    DataCamp — Août 2025
-```
-
-#### 📋 Gestion de Projet | Project Management
-```
-📜  Project Initiation: Starting a Successful Project
-    Google — Avril 2026 | ID: DESFKZW7V8NC
-
-📜  Foundations of Project Management
-    Google — Mars 2026 | ID: ZZXGW0D2WEUV
-```
-
-#### 🌾 Agriculture & Agritech
-```
-📜  Agripreneuriat
-    FAO — Septembre 2024
-
-📜  The STATA OMNIBUS: Regression and Modelling with STATA
-    Packt — Décembre 2025 | ID: JB7UZJXD6XF6
-```
-
-#### 💻 Outils Informatiques | IT Tools
-```
-📜  MS Excel Avancé
-    Benin Gestion — Septembre 2018
-
-📜  STATA & Eviews — Logiciels Statistiques et Économétriques
-    CeRPIIL — Avril 2022
-
-📜  General English Course
-    Centre de Culture Japonaise Happy Science — Octobre 2023
-```
+### 🏆 Certifications Clés | Key Certifications
 
 <div align="center">
 
-![World Bank](https://img.shields.io/badge/World_Bank_Group-Certified-003087?style=for-the-badge&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM-6x_Certified-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
-![Google](https://img.shields.io/badge/Google-2x_Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![DataCamp](https://img.shields.io/badge/DataCamp-6x_Certified-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)
+| 🏅 Certification | 🏛️ Organisme | 📅 Année | 🎯 Pertinence |
+|---|---|---|---|
+| **Evaluating Impact in Low & Middle-Income Countries** | 🌍 World Bank Group (edX) | 2026 | Impact Evaluation |
+| **Modélisation Macroéconomique pour le Développement Durable** | 🌍 IDEP Africa | 2025 | Development Economics |
+| **Suivi & Évaluation d'un Projet de Développement** | 🇫🇷 AFD | 2024 | M&E |
+| **Introduction to R Programming for Data Science** | 🔵 IBM | 2026 | Data Science |
+| **Foundations of Project Management** | 🔴 Google | 2026 | Project Management |
+| **The STATA OMNIBUS: Regression & Modelling** | 📦 Packt | 2025 | Econometrics |
+| **Agripreneuriat** | 🌾 FAO | 2024 | Agriculture |
+
+</div>
+
+<div align="center">
+
+![World Bank](https://img.shields.io/badge/🏆_World_Bank_Group-Certified-003087?style=for-the-badge&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-Certified-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+![Google](https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![FAO](https://img.shields.io/badge/FAO-Certified-4CAF50?style=for-the-badge&logoColor=white)
 ![AFD](https://img.shields.io/badge/AFD-Certified-E30613?style=for-the-badge&logoColor=white)
-![IDEP](https://img.shields.io/badge/IDEP-Certified-FF9800?style=for-the-badge&logoColor=white)
+![IDEP](https://img.shields.io/badge/IDEP_Africa-Certified-FF9800?style=for-the-badge&logoColor=white)
 
 </div>
 
