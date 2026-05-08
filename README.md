@@ -113,5 +113,5 @@ Je suis ouvert aux opportunités d'impact global avec :
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2d9e6b&height=100&section=footer"/>
 
 **"Data is the compass that guides better decisions for a food-secure Africa"** 🌍  
-*Hervé KOUTON — Abomey-Calavi, Bénin* 🇧🇯
+*Hervé KOUTON - Abomey-Calavi, Bénin* 🇧🇯
 </div>
